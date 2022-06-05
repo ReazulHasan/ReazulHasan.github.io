@@ -9,5 +9,4 @@ author: Reazul Hasan Russel
 ---
 
 Author: Reazul Hasan Russel
-
 PhD defense slides available <a href="https://github.com/ReazulHasan/reazulhasan.github.io/blob/master/files/Defense_presentation_final_reazul_1.pdf">here</a>
