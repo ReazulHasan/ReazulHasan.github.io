@@ -7,5 +7,4 @@ venue: 'arXiv preprint arXiv:2108.02701'
 paperurl: 'https://arxiv.org/pdf/2108.02701.pdf'
 authors: 'Reazul Hasan Russel, Mouhacine Benosman, Jeroen van Baar, Radu Corcodel'
 ---
-Authors: Reazul Hasan Russel, Mouhacine Benosman, Jeroen van Baar, Radu Corcodel
-.
+Authors: Reazul Hasan Russel, Mouhacine Benosman, Jeroen van Baar, Radu Corcodel.
