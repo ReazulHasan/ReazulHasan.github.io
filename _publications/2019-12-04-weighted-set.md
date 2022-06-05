@@ -1,10 +1,11 @@
 ---
-title: "Monte Carlo localization in hand-drawn maps"
+title: "Optimizing Norm-Bounded Weighted Ambiguity Sets for Robust MDPs"
 collection: publications
-permalink: /publication/2015-07-01-Paper-title-number-1
-date: 2015-07-01
-venue: 'International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: 'http://buiksat.github.io/files/IROS_2015.pdf'
-authors: 'Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, and Gian Diego Tipaldi.'
+permalink: /publication/2019-12-04-weighted-set
+date: 2019-12-04
+venue: 'NeurIPS 2019 Workshop on Safety and Robustness in Decision Making, Vancouver, Canada'
+paperurl: 'http://proceedings.mlr.press/v130/behzadian21a/behzadian21a.pdf'
+author: Reazul Hasan Russel, Bahram Behzadian, Marek Petrik
 ---
-Authors: Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, and Gian Diego Tipaldi.
+
+Author: Reazul Hasan Russel, Bahram Behzadian, Marek Petrik
