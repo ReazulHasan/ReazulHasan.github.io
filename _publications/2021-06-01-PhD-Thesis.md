@@ -7,6 +7,6 @@ venue: 'University of New Hampshire'
 paperurl: 'https://scholars.unh.edu/cgi/viewcontent.cgi?article=3633&context=dissertation'
 author: Reazul Hasan Russel
 ---
-This paper is about the number 2. The number 3 is left for future work.
+PhD defense slides: <a href="https://github.com/ReazulHasan/reazulhasan.github.io/blob/master/files/Defense_presentation_final_reazul_1.pdf">here</a>
 
 Author: Reazul Hasan Russel
